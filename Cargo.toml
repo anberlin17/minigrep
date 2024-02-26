@@ -1,0 +1,9 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Nikita Zhurawski <zhurawski.nikita@gmail.com>"]
+edition = "2021"
+readme = "README.md"
+keywords = ["regex", "grep", "egrep", "search", "pattern"]
+
+[dependencies]
